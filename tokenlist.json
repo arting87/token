@@ -9,12 +9,19 @@
 	},
 	"logoURI": "https://tryroll.com/wp-content/uploads/2018/11/cropped-icon-270x270.png",
 	"keywords": ["default", "ABC", "personal tokens"],
-	"tokens": [{
+	"tokens": [ [{
+		"name": "BSC-USD",
+		"address": "0x55d398326f99059fF775485246999027B3197955",
+		"symbol": "USDT",
+		"decimals": 18,
+		"chainId": 56,
+		"logoURI": "https://bscscan.com/token/images/busdt_32.png"
+	}, {
 		"name": "ABC",
 		"address": "0x35872fea6A4843fACBCDbCe99e3B69596A3680b8",
 		"symbol": "ABC",
 		"tags": ["bases"],
-		"decimals": 4,
+		"decimals": 18,
 		"chainId": 56,
 		"logoURI": "https://roll-token.s3.amazonaws.com/1337/fd5f947e-302b-40af-9aa5-fd134e722a21"
 	}, {
