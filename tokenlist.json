@@ -32,5 +32,20 @@
 		"decimals": 18,
 		"chainId": 56,
 		"logoURI": "https://roll-token.s3.amazonaws.com/AIN/b588d1ee-ea2f-47fe-a591-94f12622bc63"
-	}]
+	},{
+		"name": "Polygon-USD",
+		"address": "0xd07b2d3a5Ee11fBC95b44f371Cd7817818F125D4",
+		"symbol": "PUSDT",
+		"decimals": 18,
+		"chainId": 137,
+		"logoURI": "https://roll-token.s3.amazonaws.com/AIN/b588d1ee-ea2f-47fe-a591-94f12622bc63"
+	}, {
+		"name": "Polygon-ABC",
+		"address": "0x4b3f08961695A4c4E013B17583BE6395AEa74834",
+		"symbol": "PABC",
+		"tags": ["bases"],
+		"decimals": 18,
+		"chainId": 137,
+		"logoURI": "https://roll-token.s3.amazonaws.com/1337/fd5f947e-302b-40af-9aa5-fd134e722a21"
+	},]
 }
